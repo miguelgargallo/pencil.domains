@@ -8,8 +8,7 @@
 ![image](https://user-images.githubusercontent.com/5947268/165521522-16fd5201-cde0-478d-9100-7b161ce403c1.png)
 
 # Pencil Footer
-![image](https://user-images.githubusercontent.com/5947268/165521594-5aa8e86e-4d30-4571-a160-9aacfa302e0a.png)
-
+![image](https://user-images.githubusercontent.com/5947268/165521886-11a756de-f299-468b-97c2-97d0387fd447.png)
 
 # Pencil Mobile Bar
 ![image](https://user-images.githubusercontent.com/5947268/165521639-281d1f47-e787-459a-b199-170b11108901.png)
